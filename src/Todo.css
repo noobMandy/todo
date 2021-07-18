@@ -1,0 +1,12 @@
+.deleteEditIcon {
+  cursor: pointer;
+  padding-right: 70%;
+}
+.deleteIcon {
+  padding-right: 50px;
+}
+.closeIcon {
+  margin-left: 104%;
+  margin-top: -6px;
+  cursor: pointer;
+}
